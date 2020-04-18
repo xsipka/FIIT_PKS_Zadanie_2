@@ -1,0 +1,12 @@
+0  Echo reply
+3  Destination unreachable
+4  Source quench
+5  Redirect
+8  Echo request
+9  Router advertisement
+10 Router selection
+11 Time exceeded
+13 Timestamp
+14 Timestamp reply
+17 Address mask request
+18 Address mask reply 

@@ -1,0 +1,18 @@
+#Ethertypes
+0x800   IPv4
+0x806   ARP
+0x86dd  IPv6
+
+FFFF IEEE 802.3 - raw
+AAAA IEEE 802.2 - LLC SNAP
+E0E0 IEEE 802.2 - LLC
+
+#LSAPs
+0x42 STP
+0xaa SNAP
+0xe0 IPX
+
+#IP Protocol numbers
+0x1 1   ICMP
+0x6 6   TCP
+0x11 17 UDP

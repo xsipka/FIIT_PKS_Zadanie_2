@@ -1,0 +1,17 @@
+#TCP ports
+20  FTP - dátove
+21  FTP - riadiace
+22  SSH
+23  Telnet
+80  HTTP
+443 HTTPS
+
+#UDP ports
+53  DNS
+67  DHCP
+68  DHCP
+69  TFTP
+137 NBNS
+161 SNMP
+520 RIP
+
